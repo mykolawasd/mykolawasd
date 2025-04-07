@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**mykolawasd/mykolawasd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mykola Shevchenko, a Computer Science student at Donetsk National Technical University (DonNTU). Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Education**: Currently pursuing a degree in Computer Science at DonNTU.
+- 💻 **Passion**: Enthusiastic about coding and continually learning new technologies.
+- 🧠 **Learning Goals**: Planning to dive deeper into **C++** and explore game development with **Unreal Engine**.
+
+## Let's Connect!
+
+I'm always open to collaboration and exchanging ideas. Feel free to reach out or explore my repositories to see what I'm working on.
+
+Happy coding! 😊
